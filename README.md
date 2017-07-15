@@ -1,6 +1,8 @@
 # avalanchesass_utility_spacing
 Spacing utility classes.
 
+**ATTENTION:** This package is outdated, you can find the latest release under a new name: https://www.npmjs.com/package/@avalanche/utility-spacing
+
 ## Install
 ```
 npm install avalanchesass_utility_spacing --save
